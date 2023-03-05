@@ -7,7 +7,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-//YOUR API KEY
+  //YOUR API KEY
 };
 
 // Initialize Firebase
